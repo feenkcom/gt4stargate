@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:47:29.183558-03:00"
+						"dateAndTimeString" : "2023-11-17T14:49:09.371353-03:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:48:11.033031-03:00"
+						"dateAndTimeString" : "2023-11-17T14:49:28.090202-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "a/uOd77GDQCF6zqPAl2ZWg=="
+					"uidString" : "ALqHfb7GDQCIxkSZAl2ZWg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This repo is an experiment in applying GT to the [Stargate project](https://github.com/ba-st/Stargate)."
+				"string" : "We need to add the depedency to the Stargate repo to our baseline!"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:47:28.932228-03:00"
+						"dateAndTimeString" : "2023-11-17T14:49:28.277561-03:00"
 					}
 				},
 				"editEmail" : {
@@ -66,12 +66,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:47:28.932228-03:00"
+						"dateAndTimeString" : "2023-11-17T14:49:28.277561-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "1SWLd77GDQCF6n/rAl2ZWg=="
+					"uidString" : "czOofr7GDQCKOnk1Al2ZWg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:48:14.262085-03:00"
+						"dateAndTimeString" : "2023-11-17T14:49:05.803616-03:00"
 					}
 				},
 				"editEmail" : {
@@ -103,12 +103,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:48:14.262085-03:00"
+						"dateAndTimeString" : "2023-11-17T14:49:05.803616-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "R8w+er7GDQCHoOT6Al2ZWg=="
+					"uidString" : "kElRfb7GDQCIxSh5Al2ZWg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -125,7 +125,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-11-17T11:15:11.135868-03:00"
+			"dateAndTimeString" : "2023-11-17T14:49:09.335929-03:00"
 		}
 	},
 	"editEmail" : {
@@ -136,12 +136,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-11-17T11:15:11.135868-03:00"
+			"dateAndTimeString" : "2023-11-17T14:49:09.335929-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Mercap visit and demo"
+		"title" : "TO DO"
 	},
-	"uid" : "d69ba27f-bbc6-0d00-98b2-661009aa6e7e"
+	"uid" : "7f7e507d-bec6-0d00-88c4-aff9025d995a"
 }

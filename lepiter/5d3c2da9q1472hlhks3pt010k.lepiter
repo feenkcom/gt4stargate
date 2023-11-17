@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:47:29.183558-03:00"
+						"dateAndTimeString" : "2023-11-17T12:04:45.579302-03:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:48:11.033031-03:00"
+						"dateAndTimeString" : "2023-11-17T12:14:22.833427-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "a/uOd77GDQCF6zqPAl2ZWg=="
+					"uidString" : "3i2aMbzGDQCFod8NCqimrw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This repo is an experiment in applying GT to the [Stargate project](https://github.com/ba-st/Stargate)."
+				"string" : "There are some examples in {{gtClass:name=StargateApplicationTest}}.  "
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:47:28.932228-03:00"
+						"dateAndTimeString" : "2023-11-17T12:10:56.336934-03:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:47:28.932228-03:00"
+						"dateAndTimeString" : "2023-11-17T12:16:01.874727-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "1SWLd77GDQCF6n/rAl2ZWg=="
+					"uidString" : "6nuzR7zGDQCIuwkBCqimrw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Let's look at {{gtClass:name=PetOrdersRESTfulControllerTest}}.  We can adapt {{gtMethod:name=PetOrdersRESTfulControllerTest>>#testOrderCreation}}. "
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-11-17T12:06:39.866113-03:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2023-11-17T14:31:48.617858-03:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "twhqOLzGDQCGd4FHCqimrw=="
+				},
+				"code" : "test := PetOrdersRESTfulControllerTest new.\rtest setUp.\rresponse := test createOrder.\r\rtest\r\tassert: response isSuccess;\r\tassert: response status equals: 201;\r\tassertUrl: response location equals: 'https://petstore.example.com/orders/1';\r\tassert: response hasEntity.\rresponse"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +126,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:48:14.262085-03:00"
+						"dateAndTimeString" : "2023-11-17T14:47:07.520314-03:00"
 					}
 				},
 				"editEmail" : {
@@ -103,12 +137,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2023-11-17T14:48:14.262085-03:00"
+						"dateAndTimeString" : "2023-11-17T14:47:07.520314-03:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "R8w+er7GDQCHoOT6Al2ZWg=="
+					"uidString" : "B0Znab7GDQCEqenEAl2ZWg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -125,7 +159,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-11-17T11:15:11.135868-03:00"
+			"dateAndTimeString" : "2023-11-17T14:50:17.380831-03:00"
 		}
 	},
 	"editEmail" : {
@@ -136,12 +170,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2023-11-17T11:15:11.135868-03:00"
+			"dateAndTimeString" : "2023-11-17T14:50:17.380831-03:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Mercap visit and demo"
+		"title" : "Exploring Stargate"
 	},
-	"uid" : "d69ba27f-bbc6-0d00-98b2-661009aa6e7e"
+	"uid" : "24769581-bec6-0d00-8bed-ca95025d995a"
 }
